@@ -25,25 +25,6 @@ Aplikasi ini dikembangkan sebagai Projek Ujian Akhir Semester (UAS).
 
 ---
 
-## 📱 Tampilan Aplikasi (Screenshots)
-
-<div align="center">
-  <img src="assets/Dashboard.png" width="250" alt="Halaman Dashboard">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Tugas.png" width="250" alt="Halaman Tugas">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Tambah_Tugas.png" width="250" alt="Halaman Tambah Tugas">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Barometer_Burnout.png" width="250" alt="Halaman Barometer Burnout">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Mode_Fokus.png" width="250" alt="Halaman Mode Fokus">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Pustaka_Publik.png" width="250" alt="Halaman Pustaka Ilmu">
-  &nbsp;&nbsp;&nbsp;
-</div>
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 - **Bahasa Pemrograman:** [Kotlin](https://kotlinlang.org/)
@@ -87,3 +68,21 @@ Untuk menjalankan proyek ini di mesin lokal (Android Studio), ikuti langkah-lang
 
 ---
 
+## 📱 Tampilan Aplikasi (Screenshots)
+
+<div align="center">
+  <img src="assets/Dashboard.png" width="250" alt="Halaman Dashboard">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Tugas.png" width="250" alt="Halaman Tugas">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Tambah_Tugas.png" width="250" alt="Halaman Tambah Tugas">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Barometer_Burnout.png" width="250" alt="Halaman Barometer Burnout">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Mode_Fokus.png" width="250" alt="Halaman Mode Fokus">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Pustaka_Publik.png" width="250" alt="Halaman Pustaka Ilmu">
+  &nbsp;&nbsp;&nbsp;
+</div>
+
+---
